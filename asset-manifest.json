@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MOVIEAPP/static/css/main.b719c4b2.chunk.css",
+    "main.js": "/MOVIEAPP/static/js/main.1e68111b.chunk.js",
+    "main.js.map": "/MOVIEAPP/static/js/main.1e68111b.chunk.js.map",
+    "runtime-main.js": "/MOVIEAPP/static/js/runtime-main.a84316ad.js",
+    "runtime-main.js.map": "/MOVIEAPP/static/js/runtime-main.a84316ad.js.map",
+    "static/css/2.af3ab7ac.chunk.css": "/MOVIEAPP/static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.93fc758d.chunk.js": "/MOVIEAPP/static/js/2.93fc758d.chunk.js",
+    "static/js/2.93fc758d.chunk.js.map": "/MOVIEAPP/static/js/2.93fc758d.chunk.js.map",
+    "index.html": "/MOVIEAPP/index.html",
+    "static/css/2.af3ab7ac.chunk.css.map": "/MOVIEAPP/static/css/2.af3ab7ac.chunk.css.map",
+    "static/css/main.b719c4b2.chunk.css.map": "/MOVIEAPP/static/css/main.b719c4b2.chunk.css.map",
+    "static/js/2.93fc758d.chunk.js.LICENSE.txt": "/MOVIEAPP/static/js/2.93fc758d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a84316ad.js",
+    "static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.93fc758d.chunk.js",
+    "static/css/main.b719c4b2.chunk.css",
+    "static/js/main.1e68111b.chunk.js"
+  ]
+}
